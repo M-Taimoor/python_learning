@@ -14,3 +14,5 @@ print("multiplication of ",a,"and",b,"is",a*b)
 
 # division
 print("division of ",a,"and",b,"is",a/b)
+
+
